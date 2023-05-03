@@ -1,0 +1,10 @@
+echo '# Blinkit-groceries-">> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/deekshitha123456/blinkit-grocery/.git
+git push git -u origin main
+git remote add origin https://github.com/deekshitha123456/blinkit-grocery/.git
+git branch -m main
+git push -u origin name
